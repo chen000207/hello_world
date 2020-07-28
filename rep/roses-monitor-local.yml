@@ -1,1 +1,2 @@
-
+monitor:
+  hello: monitor-local
